@@ -1,0 +1,198 @@
+[
+    {
+        "homograph": "crane",
+        "meanings": [
+            {
+                "description": "bird",
+                "minimal_context": [
+                    "The sarus crane",
+                    "The red-crowned crane",
+                    "The wattled crane",
+                    "The wing of a crane",
+                    "The beak of a crane"
+                ],
+                "context": [
+                    "The bare area of skin on the face of a sandhill crane",
+                    "The family name Gruidae comes from the genus Grus, this genus name is obtained from the epithet of the common crane",
+                    "A crane holding a stone in its claw is a well-known symbol in heraldry, and is known as a crane",
+                    "Rarely, breeding territorial crane pairs allow a third crane",
+                    "Even in areas with a high density of humans, in the absence of directed persecution, species like Sarus crane"
+                ]
+            },
+            {
+                "description": "machine",
+                "context": [
+                    "The first mechanical power was provided by steam engines, the earliest steam crane",
+                    "Although the exact circumstances of the shift from the ramp to the crane",
+                    "During the High Middle Ages, the treadwheel crane",
+                    "Typical areas of application were harbors, mines, and, in particular, building sites where the treadwheel crane",
+                    "A sheer hulk (or shear hulk) was used in shipbuilding and repair as a floating crane"
+                ],
+                "minimal_context": [
+                    "The treadwheel crane",
+                    "The construction crane",
+                    "The hydraulic crane",
+                    "The tower crane",
+                    "The gentry crane"
+                ]
+            }
+        ]
+    },
+    {
+        "homograph": "bat",
+        "meanings": [
+            {
+                "description": "mammal",
+                "context": [
+                    "The delicate skeletons of bats do not fossilise well; it is estimated that only 12% of bat",
+                    "An independent molecular analysis trying to establish the dates when bat",
+                    "This palm-sized bat had short, broad wings, suggesting that it could not fly as fast or as far as later bat",
+                    "While the skin on the body of the bat",
+                    "Bats are more awkward when walking on the ground, though a few species such as the New Zealand lesser short-tailed bat"
+                ],
+                "minimal_context": [
+                    "The vampire bat",
+                    "The long-tongued nectar bat",
+                    "The Jamaican fruit bat",
+                    "The little brown bat",
+                    "The yellow-winged bat"
+                ]
+            },
+            {
+                "description": "sporting equipment",
+                "context": [
+                    "Opposite the cap, the barrel narrows until it meets the 'handle', which is comparatively thin, so that batters can comfortably grip the bat",
+                    "Several Major League Baseball players have adopted the bat",
+                    "Based on consistent anecdotal reports of sales at sporting goods stores, and because of the Emerald ash borer epidemic, maple appears to be displacing ash as most popular new baseball bat",
+                    "Within league standards there is ample latitude for individual variation, many batters settling on their own bat",
+                    "The bamboo bat the researchers used was a specially made prototype laminated bat"
+                ],
+                "minimal_context": [
+                    "The baseball bat",
+                    "The cricket bat",
+                    "The alualuminum bat",
+                    "The softball bat",
+                    "The wooden bat"
+                ]
+            }
+        ]
+    },
+    {
+        "homograph": "palm",
+        "meanings": [
+            {
+                "description": "plant",
+                "context": [
+                    "In the United States, there are at least 12 native palm",
+                    "Palms inhabit a variety of ecosystems. More than two-thirds of palm",
+                    "Arecaceae have great economic importance, including coconut products, oils, dates, palm",
+                    "The harvesting of heart of palm, a delicacy in salads, also poses a threat because it is derived from the palm's apical meristem, a vital part of the palm",
+                    "In the southern hemisphere, the southernmost palm"
+                ],
+                "minimal_context": [
+                    "The date palm",
+                    "The oil palm",
+                    "The coconut palm",
+                    "The figleave palm",
+                    "The fan palm"
+                ]
+            },
+            {
+                "description": "bodypart",
+                "context": [
+                    "The heel of the hand is the area anteriorly to the bases of the metacarpal bones, located in the proximal part of the palm",
+                    "The skin is thick and tough, adapted for pressure and friction, a layer of subcutaneous fat and connective tissue provides cushioning, and palmar fascia contributes to the palm",
+                    "The four fingers can be folded over the palm",
+                    "The ring and little fingers are more static, a reserve ready to interact with the palm",
+                    "The glabrous (hairless) skin on the front of the hand, the palm"
+                ],
+                "minimal_context": [
+                    "The proximal palm",
+                    "The skin of the palm",
+                    "The sweaty palm",
+                    "The creases of the palm",
+                    "The anatomy of th palm"
+                ]
+            }
+        ]
+    },
+    {
+        "homograph": "plant",
+        "meanings": [
+            {
+                "description": "organism",
+                "context": [
+                    "Historically, as in Aristotle's biology, the plant",
+                    "Much later, Linnaeus (1707-1778) created the basis of the modern system of scientific classification, but retained the animal and plant",
+                    "The table below shows some species count estimates of different green plant",
+                    "In 2019, a phylogeny based on genomes and transcriptomes from 1,153 plant",
+                    "Biotic factors that affect plant growth include crowding, grazing, beneficial symbiotic bacteria and fungi, and attacks by insects or plant",
+                    "Plants use pattern-recognition receptors to recognize pathogens such as bacteria that cause plant"
+                ],
+                "minimal_context": [
+                    "The leafy plant",
+                    "The green plant",
+                    "The cells of a plant",
+                    "The genome of a plant",
+                    "The parasitic plant"
+                ]
+            },
+            {
+                "description": "industrial facility",
+                "context": [
+                    "A chemical plant is an industrial process plant",
+                    "The same chemical process can be used at more than one chemical plant",
+                    "A power station, also referred to as a power plant",
+                    "Besides use of reject heat for process or district heating, one way to improve overall efficiency of a power plant",
+                    "A further environmental impact is that aquatic organisms which adapt to the warmer discharge water may be injured if the plant"
+                ],
+                "minimal_context": [
+                    "The power plant",
+                    "The chemical plant",
+                    "The manufacturing plant",
+                    "The treatment plant",
+                    "The desalination plant"
+                ]
+            }
+        ]
+    },
+    {
+        "homograph": "spring",
+        "meanings": [
+            {
+                "description": "water source",
+                "context": [
+                    "The forcing of the spring to the surface can be the result of a confined aquifer in which the recharge area of the spring",
+                    "Geysers are a type of hot spring",
+                    "Factors that affect the recharge include the size of the area in which groundwater is captured, the amount of precipitation, the size of capture points, and the size of the spring",
+                    "In parts of the United States a stream carrying the outflow of a spring",
+                    "One must take a comprehensive water quality test to know how to use a spring"
+                ],
+                "minimal_context": [
+                    "The hot spring",
+                    "The artesian spring",
+                    "The thermal spring",
+                    "The depression spring",
+                    "The geyser spring"
+                ]
+            },
+            {
+                "description": "mechanical device",
+                "context": [
+                    "In everyday use, the term most often refers to coil springs, but there are many different spring",
+                    "Springs are made from a variety of elastic materials, the most common being spring",
+                    "In 1676 British physicist Robert Hooke postulated Hooke's law, which states that the force a spring",
+                    "The spring is designed to operate with a tension load, so the spring",
+                    "Since force is equal to mass, m, times acceleration, a, the force equation for a spring"
+                ],
+                "minimal_context": [
+                    "The coil spring",
+                    "The torsion spring",
+                    "The leaf spring",
+                    "The tension spring",
+                    "The steel spring"
+                ]
+            }
+        ]
+    }
+]

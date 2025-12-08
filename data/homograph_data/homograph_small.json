@@ -33,7 +33,7 @@
                     "The construction crane",
                     "The hydraulic crane",
                     "The tower crane",
-                    "The gentry crane"
+                    "The gantry crane"
                 ]
             }
         ]
@@ -52,7 +52,7 @@
                 ],
                 "minimal_context": [
                     "The vampire bat",
-                    "The long-tongued nectar bat",
+                    "The short-tailed bat",
                     "The Jamaican fruit bat",
                     "The little brown bat",
                     "The yellow-winged bat"
@@ -70,7 +70,7 @@
                 "minimal_context": [
                     "The baseball bat",
                     "The cricket bat",
-                    "The alualuminum bat",
+                    "The aluminum bat",
                     "The softball bat",
                     "The wooden bat"
                 ]

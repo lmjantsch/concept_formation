@@ -1,1 +1,0 @@
-from .concept_isolation import get_mass_mean_vectors
